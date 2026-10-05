@@ -1,0 +1,6 @@
+node_modules
+assets/build
+release
+acf-json
+pnpm-lock.yaml
+.agents
